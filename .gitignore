@@ -3,3 +3,6 @@ __pycache__
 
 # Images
 *.jpg
+
+# Examples
+!example/*.jpg
