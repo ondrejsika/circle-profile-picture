@@ -7,3 +7,5 @@ Draw circle background around profile picture
 
 ![](example/input.jpg)
 ![](example/output.jpg)
+![](example/input2.jpg)
+![](example/output2.jpg)
