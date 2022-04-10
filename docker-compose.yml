@@ -1,0 +1,9 @@
+version: '3.9'
+services:
+  main:
+    build: .
+    image: ondrejsika/circle-profile-picture
+    volumes:
+      - ./:/app
+    tty: true
+    stdin_open: true
