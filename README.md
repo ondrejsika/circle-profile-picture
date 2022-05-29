@@ -12,7 +12,7 @@ Draw circle background around profile picture
 
 ## Example Usage
 
-Run in Docker
+Run shell (with Python & requirements) in Docker
 
 ```bash
 make build-and-run
