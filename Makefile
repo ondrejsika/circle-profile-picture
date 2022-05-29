@@ -1,3 +1,5 @@
+build-and-run: build run
+
 run:
 	docker compose run main
 
